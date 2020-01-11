@@ -1,15 +1,15 @@
 h1 {
   text-align: center;
-  background-color: grey;
-  color: red;
+  background-color: pink;
+  color: rosybrown;
 }
 
 h2 {
-  color: rgb(20, 24, 255);
+  color: lightpink;
 }
 
 h3 {
-  color: rgb(20, 24, 255);
+  color: darkorchid;
 }
 
 img {
@@ -22,10 +22,10 @@ section {
 
 p {
   font-size: 15px;
-  color: gray;
+  color: darksalmon;
 }
 
 ul {
   border-style: solid;
-  color: gray;
+  color:black;
 }
