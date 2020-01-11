@@ -15,8 +15,14 @@ p {
 }
 
 img {
-  text-align: center;
   box-shadow: 10px 10px 5px black;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 section {
@@ -31,4 +37,8 @@ p {
 ul {
   border-style: solid;
   color:black;
+}
+
+a {
+  color: #a54379;
 }
